@@ -2,7 +2,7 @@
 
 This sample project demonstrates how a user defaults flag can be used to dynamically enable/disable Liquid Glass in an app.
 
-![screenshot](./screenshot.webp)
+<img src="https://github.com/insidegui/LiquidGlassFlag/raw/main/demo.gif" width="300" alt="screenshot" />
 
 ## How it works
 
